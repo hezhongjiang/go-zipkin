@@ -1,7 +1,7 @@
 package zipkin
 
 import (
-	"git.apache.org/thrift.git/lib/go/thrift"
+	"github.com/apache/thrift/lib/go/thrift"
 	"github.com/elodina/go-zipkin/gen-go/zipkincore"
 )
 
